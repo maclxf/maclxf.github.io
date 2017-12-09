@@ -42,9 +42,7 @@ class Mysql extends ParentClass implements Itemplete { // 写一行，{ 前面�
 
     }
 }
-```
 
-```
 // 用到抽象(abstract)和终结(final)来做类声明时，它们必须放在方法可见性声明 （public 还是protected还是private）的前面。而当用到静态(static)来做类声明时，则必须放在可见性声明的后面。
 abstract class ClassName {
     protected static $foo; // static放后面
@@ -56,8 +54,8 @@ abstract class ClassName {
 }
 ```
 
-
 ## 控制语句的规范
+
 * if控制语句
 ```
 if ($expr1) { // if 与 ( 之间有一个空格，) 与 { 之间有一个空格

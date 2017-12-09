@@ -1,0 +1,892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"path",
+				"pathinfo"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"array",
+				"array_filter"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fro",
+				"for\tfor …"
+			],
+			[
+				"upload",
+				"upload_path"
+			],
+			[
+				"ori",
+				"ori_slug"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"dire",
+				"direct_mail_status"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"added",
+				"added_ip"
+			],
+			[
+				"status",
+				"status_code"
+			],
+			[
+				"array_m",
+				"array_merge〔function〕"
+			],
+			[
+				"error",
+				"error_reporting〔function〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"exporter",
+				"$exporter_name〔variable〕"
+			],
+			[
+				"array_key",
+				"array_key_exists〔function〕"
+			],
+			[
+				"con",
+				"contentStr"
+			],
+			[
+				"ro",
+				"$round_object〔variable〕"
+			],
+			[
+				"func",
+				"function_exists〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "git:diff",
+		"selected_items":
+		[
+			[
+				"git:diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git:log",
+				"Git: Log Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git:dif",
+				"Git: Diff Current File"
+			],
+			[
+				"mp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"package con",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gitdiff",
+				"Git: Diff Current File"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 879.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  ",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = ‘2915d1851351e5ee549c20394736b442‘ + ‘8bc59f460fa1548d1514676163dafc88‘; pf = ‘Package Control.sublime-package‘; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( ‘http://packagecontrol.io/‘ + pf.replace(‘ ‘, ‘%20‘)).read(); dh = hashlib.sha256(by).hexdigest(); print(‘Error validating download (got %s instead of %s), please try manual install‘ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), ‘wb‘ ).write(by)   ",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/projects/my_blog"
+	],
+	"file_history":
+	[
+		"/D/projects/adi-v3/application/views/style/exchangeable.css",
+		"/D/projects/adi-v3/application/config/event_contents.php",
+		"/D/projects/adi-v3/application/views/event/christmas_2017.php",
+		"/D/projects/adi-v3/application/libraries/Ad_source/Emar.php",
+		"/D/projects/adi-v3/application/libraries/Ad_source/Ad_source.php",
+		"/D/projects/adi-v3/application/views/common/sign_in.php",
+		"/D/projects/adi-v3/application/controllers/Sign_in.php",
+		"/D/projects/adi-v3/application/libraries/CustomerSigner.php",
+		"/D/projects/adi-v3/application/config/customer_sign.php",
+		"/D/projects/adi-v3/application/libraries/Event.php",
+		"/D/projects/adi-v3/application/models/Customer_sign_model.php",
+		"/D/projects/adi-v3/application/controllers/Anniversary.php",
+		"/D/projects/adi-v3/application/views/event/anniversary_4th.php",
+		"/D/projects/adi-v3/application/views/style/anniversary_4th.css",
+		"/D/projects/adi-v3/application/libraries/Auctioneer.php",
+		"/D/projects/adi-v3/application/models/Auction_model.php",
+		"/D/projects/adi-v3/application/controllers/event/Anniversary_4th.php",
+		"/D/projects/adi-v3/application/controllers/Transfer.php",
+		"/D/projects/adi-v3/application/controllers/test.php",
+		"/D/projects/adi-v3/application/controllers/Auto_task.php",
+		"/D/projects/adi-v3/application/libraries/Reader/ExcelReader.php",
+		"/D/projects/adi-v3/application/libraries/Reader/ReadFilter/BasicReadFilter.php",
+		"/D/projects/adi-v3/application/controllers/Tracking.php",
+		"/C/WAMP/Apache24/conf/extra/httpd-vhosts.conf",
+		"/D/projects/adi-v3/application/libraries/PHPExcel/Reader/Abstract.php",
+		"/D/projects/adi-v3/application/libraries/FileSync/FileSync.php",
+		"/D/projects/adi-v3/index.php",
+		"/D/projects/adi-v3/application/controllers/File_synchronizer.php",
+		"/D/projects/adi-v3/application/libraries/FileSync/FileSyncContext.php",
+		"/D/projects/adi-v3/application/config/production/channel.php",
+		"/D/projects/kuai/shared/config/invoke_transfer.php",
+		"/D/projects/kuai/shared/config/kuaidi100_status.php",
+		"/D/projects/kuai/shared/config/production/invoke_transfer.php",
+		"/D/projects/adi-v3/application/config/production/projects.php",
+		"/D/projects/adi-v3/application/config/config.php",
+		"/D/projects/adi-v3/application/controllers/Files.php",
+		"/D/projects/adi-v3/application/libraries/FileSync/SOFileSync.php",
+		"/D/projects/adi-v3/application/language/chinese/upload_lang.php",
+		"/D/projects/adi-v3/system/libraries/Upload.php",
+		"/D/projects/adi-v3/application/views/info/address.php",
+		"/D/projects/adi-v3/application/libraries/PHPExcel/Shared/File.php",
+		"/D/projects/adi-v3/system/core/Input.php",
+		"/D/projects/adi-v3/system/core/Common.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/projects/view-ci/index.php",
+		"/D/projects/adi-v3/application/libraries/MY_Email.php",
+		"/D/projects/adi-v3/application/views/email/notice.php",
+		"/C/Users/lxf/AppData/Roaming/Composer/config.json",
+		"/D/projects/tp-wechat/composer.json",
+		"/D/projects/tp-wechat/vendor/composer/LICENSE",
+		"/D/projects/tp-wechat/vendor/composer/installed.json",
+		"/C/ProgramData/ComposerSetup/bin/composer.phar",
+		"/C/ProgramData/ComposerSetup/bin/composer",
+		"/D/projects/adi-v3/application/config/production/valued_service.php",
+		"/D/projects/adi-v3/application/views/js/common.js",
+		"/D/projects/adi-v3/application/views/package/submitting.php",
+		"/D/projects/adi-v3/application/config/version.php",
+		"/D/projects/adi-v3/application/config/valued_service.php",
+		"/D/projects/adi-v3/application/models/Transfer_model.php",
+		"/D/projects/adi-v3/application/views/transfer/view_pending.php",
+		"/D/projects/adi-v3/application/views/transfer/view_unpaid.php",
+		"/D/projects/adi-v3/application/views/transfer/view.php",
+		"/D/projects/adi-v3/application/views/js/base.js",
+		"/D/projects/adi-v3/application/views/dashboard/index.php",
+		"/D/projects/adi-v3/application/config/database.php",
+		"/D/projects/adi-v3/application/views/intro/la-poste.php",
+		"/D/projects/adi-v3/application/views/intro/economy-package.php",
+		"/D/projects/adi-v3/application/models/Coupon_model.php",
+		"/D/projects/adi-v3/application/controllers/Account.php",
+		"/D/projects/adi-v3/application/libraries/Commission.php",
+		"/D/projects/adi-v3/application/models/Commission_model.php",
+		"/D/projects/adi-v3/application/helpers/adi_helper.php",
+		"/D/projects/adi-v3/application/config/coupon.php",
+		"/D/projects/adi-v3/application/views/transfer/pay.php",
+		"/D/projects/adi-v3/application/views/checkout/checkout.php",
+		"/N/Account.php",
+		"/D/projects/adi-v3/application/libraries/MY_Cart.php",
+		"/D/projects/adi-v3/application/models/Product_model.php",
+		"/D/projects/adi-v3/application/controllers/Cart.php",
+		"/D/projects/adi-v3/application/controllers/Checkout.php",
+		"/D/projects/adi-v3/application/views/intro/bpost.php",
+		"/D/projects/adi-v3/application/config/operation.php",
+		"/D/projects/adi-v3/application/controllers/Info.php",
+		"/D/projects/adi-v3/application/controllers/Register.php",
+		"/D/projects/adi-v3/application/models/Customer_model.php",
+		"/D/projects/adi-v3/application/libraries/Settlement/MallSettlement.php",
+		"/D/projects/adi-v3/application/libraries/Settlement/Settlement.php",
+		"/C/Users/lxf/Desktop/新文件夹/Insurance.php",
+		"/C/Users/lxf/Desktop/新文件夹/Account.php",
+		"/D/projects/adi-v3/application/controllers/Package.php",
+		"/D/projects/adi-v3/application/controllers/Intro.php",
+		"/D/projects/adi-v3/application/libraries/Currency.php",
+		"/D/projects/adi-v3/application/libraries/Order.php",
+		"/D/projects/adi-v3/application/libraries/Settlement/ContextSettlement.php",
+		"/D/projects/adi-v3/application/libraries/Settlement/DirectMailSettlement.php",
+		"/D/projects/adi-v3/application/libraries/Importer/Importer.php",
+		"/D/projects/adi-v3/application/models/Package_model.php",
+		"/D/projects/adi-v3/application/libraries/Importer/ContextSettlement.php",
+		"/D/projects/adi-v3/application/controllers/Mall.php",
+		"/D/projects/adi-v3-admin/.htaccess",
+		"/D/projects/adi-v3/application/views/intro/en-air-fast.php",
+		"/D/projects/adi-v3/application/views/style/main.css",
+		"/D/projects/adi-v3/application/helpers/common_helper.php",
+		"/C/WAMP/Apache24/conf/httpd.conf",
+		"/D/projects/note/work_flow/To Do.md",
+		"/D/projects/note/optimize_adi_com.md",
+		"/D/projects/note/.gitignore",
+		"/D/projects/merge_conflict.md",
+		"/C/wnmp/MySQL/my.ini",
+		"/C/Users/lxf/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/C/Users/lxf/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/C/Users/lxf/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/lxf/AppData/Roaming/Sublime Text 3/Installed Packages/GitGutter.sublime-package",
+		"/C/Users/lxf/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-settings",
+		"/C/Users/lxf/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/D/projects/edockey/apps/web/application/core/MY_Controller.php",
+		"/D/projects/edockey/apps/merchant/application/controllers/Test.php",
+		"/D/projects/edockey/apps/web/assets/js/tabs.js",
+		"/D/projects/edockey/shared/models/Transfer_model.php",
+		"/D/projects/edockey/apps/web/application/config/config.php",
+		"/D/projects/edockey/apps/web/application/views/common/footer.php",
+		"/D/projects/edockey/shared/helpers/MY_url_helper.php",
+		"/D/projects/edockey/apps/web/application/config/autoload.php",
+		"/D/projects/edockey/shared/config/assets.php",
+		"/D/projects/edockey/apps/web/application/views/common/menu.php",
+		"/D/projects/edockey/apps/web/application/controllers/Test.php",
+		"/D/projects/edockey/apps/web/application/views/test.php",
+		"/D/projects/edockey/apps/web/application/libraries/Sso.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 246.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 245.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 245.0
+	},
+	"pinned_build_system": "",
+	"project": "my_blog.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"transfer",
+				"application\\controllers\\Transfer.php"
+			],
+			[
+				"prom",
+				"application\\libraries\\Promoter.php"
+			],
+			[
+				"exchange",
+				"application\\views\\style\\exchangeable.css"
+			],
+			[
+				"exch",
+				"application\\libraries\\Exchanger.php"
+			],
+			[
+				"emar",
+				"application\\libraries\\Ad_source\\Emar.php"
+			],
+			[
+				"c2017",
+				"application\\views\\event\\christmas_2017.php"
+			],
+			[
+				"customer_sign",
+				"application\\config\\customer_sign.php"
+			],
+			[
+				"common/sign_in",
+				"application\\views\\common\\sign_in.php"
+			],
+			[
+				"customer_sign_model",
+				"application\\models\\Customer_sign_model.php"
+			],
+			[
+				"customersigner",
+				"application\\libraries\\CustomerSigner.php"
+			],
+			[
+				"sig",
+				"application\\controllers\\Sign_in.php"
+			],
+			[
+				"viewanniversary_4th",
+				"application\\views\\event\\anniversary_4th.php"
+			],
+			[
+				"4thcss",
+				"application\\views\\style\\anniversary_4th.css"
+			],
+			[
+				"ann",
+				"application\\controllers\\Anniversary.php"
+			],
+			[
+				"eve",
+				"application\\libraries\\Event.php"
+			],
+			[
+				"4th",
+				"application\\views\\event\\anniversary_4th.php"
+			],
+			[
+				"auc",
+				"application\\models\\Auction_model.php"
+			],
+			[
+				"auto",
+				"application\\controllers\\Auto_task.php"
+			],
+			[
+				"track",
+				"application\\controllers\\Tracking.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"file",
+				"application\\controllers\\File_synchronizer.php"
+			],
+			[
+				"test",
+				"application\\controllers\\test.php"
+			],
+			[
+				"channel",
+				"application\\config\\production\\channel.php"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				"lication/libraries/filesync/files",
+				"application\\libraries\\FileSync\\FileSync.php"
+			],
+			[
+				"proj",
+				"application\\config\\production\\projects.php"
+			],
+			[
+				"upload",
+				"system\\libraries\\Upload.php"
+			],
+			[
+				"files",
+				"application\\libraries\\FileSync\\FileSync.php"
+			],
+			[
+				"info/address",
+				"application\\views\\info\\address.php"
+			],
+			[
+				"aut",
+				"application\\controllers\\Auto_task.php"
+			],
+			[
+				"input",
+				"system\\core\\Input.php"
+			],
+			[
+				"notice",
+				"application\\views\\email\\notice.php"
+			],
+			[
+				"my_email",
+				"application\\libraries\\MY_Email.php"
+			],
+			[
+				"value",
+				"application\\config\\production\\valued_service.php"
+			],
+			[
+				"common",
+				"application\\views\\js\\common.js"
+			],
+			[
+				"subm",
+				"application\\views\\package\\submitting.php"
+			],
+			[
+				"submit",
+				"application\\views\\package\\submitting.php"
+			],
+			[
+				"common.js",
+				"application\\views\\js\\common.js"
+			],
+			[
+				"ve",
+				"application\\config\\version.php"
+			],
+			[
+				"ver",
+				"application\\config\\version.php"
+			],
+			[
+				"view_pending",
+				"application\\views\\transfer\\view_pending.php"
+			],
+			[
+				"view_unpaid",
+				"application\\views\\transfer\\view_unpaid.php"
+			],
+			[
+				"transfer/view",
+				"application\\views\\transfer\\view.php"
+			],
+			[
+				"base",
+				"application\\views\\js\\base.js"
+			],
+			[
+				"data",
+				"application\\config\\database.php"
+			],
+			[
+				"dashboard/index",
+				"application\\views\\dashboard\\index.php"
+			],
+			[
+				"intro/en",
+				"application\\views\\intro\\economy-package.php"
+			],
+			[
+				"intro/l",
+				"application\\views\\intro\\la-poste.php"
+			],
+			[
+				"valued_service",
+				"application\\config\\valued_service.php"
+			],
+			[
+				"account",
+				"application\\controllers\\Account.php"
+			],
+			[
+				"transfer/pay",
+				"application\\views\\transfer\\pay.php"
+			],
+			[
+				"coupon",
+				"application\\config\\coupon.php"
+			],
+			[
+				"product",
+				"application\\models\\Product_model.php"
+			],
+			[
+				"checkout/checkout",
+				"application\\views\\checkout\\checkout.php"
+			],
+			[
+				"checkout",
+				"application\\controllers\\Checkout.php"
+			],
+			[
+				"cart",
+				"application\\controllers\\Cart.php"
+			],
+			[
+				"b",
+				"application\\views\\intro\\bpost.php"
+			],
+			[
+				"ope",
+				"application\\config\\operation.php"
+			],
+			[
+				"customer_model",
+				"application\\models\\Customer_model.php"
+			],
+			[
+				"r",
+				"application\\controllers\\Register.php"
+			],
+			[
+				"info",
+				"application\\controllers\\Info.php"
+			],
+			[
+				"se",
+				"application\\libraries\\Settlement\\Settlement.php"
+			],
+			[
+				"package/submitting",
+				"application\\views\\package\\submitting.php"
+			],
+			[
+				"package",
+				"application\\controllers\\Package.php"
+			],
+			[
+				"intrp",
+				"application\\controllers\\Intro.php"
+			],
+			[
+				"bpost",
+				"application\\views\\intro\\bpost.php"
+			],
+			[
+				"order",
+				"application\\libraries\\Order.php"
+			],
+			[
+				"product_model",
+				"application\\models\\Product_model.php"
+			],
+			[
+				"chckout",
+				"application\\controllers\\Checkout.php"
+			],
+			[
+				"mall",
+				"application\\controllers\\Mall.php"
+			],
+			[
+				"main",
+				"application\\views\\style\\main.css"
+			],
+			[
+				"intro",
+				"application\\controllers\\Intro.php"
+			],
+			[
+				"encom",
+				"application\\views\\intro\\economy-package.php"
+			],
+			[
+				"",
+				"application\\models\\Package_model.php"
+			],
+			[
+				"package_model",
+				"application\\models\\Package_model.php"
+			],
+			[
+				"to",
+				"work_flow\\To Do.md"
+			],
+			[
+				"order/process",
+				"apps\\admin\\application\\views\\order\\process.php"
+			],
+			[
+				"assets/",
+				"apps\\web\\assets\\js\\tabs.js"
+			],
+			[
+				"autoload",
+				"apps\\web\\application\\config\\autoload.php"
+			],
+			[
+				"footer",
+				"apps\\web\\application\\views\\common\\footer.php"
+			],
+			[
+				"menu",
+				"apps\\web\\application\\views\\common\\menu.php"
+			],
+			[
+				"order/fr",
+				"apps\\web\\application\\views\\member\\order\\frame.php"
+			],
+			[
+				"header",
+				"apps\\web\\application\\views\\common\\header.php"
+			],
+			[
+				"pcd",
+				"apps\\static\\assets\\js\\pcd.js"
+			],
+			[
+				"my_con",
+				"apps\\web\\application\\core\\MY_Controller.php"
+			],
+			[
+				"sso",
+				"apps\\web\\application\\libraries\\Sso.php"
+			],
+			[
+				"order/export",
+				"apps\\admin\\application\\views\\order\\export.php"
+			],
+			[
+				"export",
+				"apps\\admin\\application\\config\\export.php"
+			],
+			[
+				"export_list",
+				"apps\\admin\\application\\views\\order\\export_list.php"
+			],
+			[
+				"orderexport",
+				"apps\\admin\\application\\views\\order\\export.php"
+			],
+			[
+				"channel_model",
+				"app\\models\\channel_model.php"
+			],
+			[
+				"total",
+				"app\\views\\transfer\\total_confirms.php"
+			],
+			[
+				"show",
+				"application\\controllers\\Show_data.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
