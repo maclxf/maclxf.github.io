@@ -1,0 +1,46 @@
+
+shortcut    捷径
+avatar      头像
+page-member-setting    页面成员设置
+menu-package   菜单包
+text-default   默认文本颜色
+text-warn      警告
+
+
+文本省略
+.text-ellipsis {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+浮动
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+
+preview  预览
+spacing  间距
+
+page__desc  页面降序？？？？？？
+intro     简介
+category  类别
+dialog    对话
+article   文章
+loadmore  加载更多
+layer     层
+popout    弹出
+slideIn   滑动进入
+
+
+
+
+
+
+
+
