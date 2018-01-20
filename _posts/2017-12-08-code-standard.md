@@ -4,6 +4,7 @@ title: "2017-12-08月会"
 date: 2017-12-08 23:22:20 +0800
 description: 代码的规范。 # Add post description (optional)
 img:  2017-12-08.jpg # Add image post (optional)
+list_img: 2017-12-08-list.jpg
 tags: [month meeting] # add tag
 ---
 
