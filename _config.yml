@@ -9,10 +9,10 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Maclxf # add your name
 author-img: maclxf.jpg # add your photo
-about-author: 多看！多想！多做！ # add description
+about-author:  # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
-github: maclxf # add your Github handle
+github:  # add your Github handle
 linkedin: # add your Linkedin handle
 email: maclxf@gmail.com # add your Email address
 
