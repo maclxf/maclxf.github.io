@@ -119,33 +119,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_posts/2017-12-08-my-code-standard.md",
-			"settings":
-			{
-				"buffer_size": 4405,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 490,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 1012,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -281,8 +254,15 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/projects/my_blog"
+	],
 	"file_history":
 	[
+		"/D/projects/my_blog/_config.yml",
+		"/D/projects/my_blog/package.json",
+		"/D/projects/my_blog/_posts/2017-12-08-my-code-standard.md",
 		"/D/projects/adi-v3/application/views/style/exchangeable.css",
 		"/D/projects/adi-v3/application/config/event_contents.php",
 		"/D/projects/adi-v3/application/views/event/christmas_2017.php",
@@ -407,10 +387,7 @@
 		"/D/projects/edockey/shared/helpers/MY_url_helper.php",
 		"/D/projects/edockey/apps/web/application/config/autoload.php",
 		"/D/projects/edockey/shared/config/assets.php",
-		"/D/projects/edockey/apps/web/application/views/common/menu.php",
-		"/D/projects/edockey/apps/web/application/controllers/Test.php",
-		"/D/projects/edockey/apps/web/application/views/test.php",
-		"/D/projects/edockey/apps/web/application/libraries/Sso.php"
+		"/D/projects/edockey/apps/web/application/views/common/menu.php"
 	],
 	"find":
 	{
@@ -446,108 +423,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_posts/2017-12-08-my-code-standard.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4405,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2391,
-								2391
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"parser": "github",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 4,
-							"target": "browser",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2673.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 490,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								20,
-								20
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Seti_UI/icons/Langs/Npm (JSON).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1012,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
