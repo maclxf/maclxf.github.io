@@ -31,5 +31,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-maclxf.sublime-workspace
-maclxf.sublime-project
+*.sublime-workspace
+*.sublime-project
