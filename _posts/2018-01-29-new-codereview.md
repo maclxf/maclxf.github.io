@@ -103,6 +103,14 @@ abstract class BillClass{
 }
 ```
 
+3. 待优化
+```
+public function get_new_lable($batch_transfer) {
+    //执行调用奶粉
+    $this->load->library('Channels/Milk_channel');
+    $gl = $this->milk_channel->get_another_lable($batch_transfer->id);
+}
+```
 
 
 ## 讨论上周遇到的问题
