@@ -94,19 +94,12 @@ public function business_list() {
 ```
 
 2. 待优化代码
+
 ```
 abstract class BillClass{
-    /**
-     * 组装渠道所需数据
-     * @param  int $id 订单ID
-     * @return array    请求数据
-     */
+
     protected abstract function assembly_data($id);
 
-    /**
-     * 获取渠道开单地址
-     * @return string url
-     */
     protected abstract function get_api_url();
 }
 ```
@@ -120,6 +113,9 @@ abstract class BillClass{
 
 ## 项目进度
 
+
+## 备注
+* <strong style="color:red">每人周三上班交我一份年终总结（2017年的总结和2018的规划）</strong>
 
 ## 周会记录
 
