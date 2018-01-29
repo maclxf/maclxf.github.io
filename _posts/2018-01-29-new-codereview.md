@@ -94,7 +94,6 @@ public function business_list() {
 ```
 
 2. 待优化代码
-
 ```
 abstract class BillClass{
 
