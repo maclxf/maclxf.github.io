@@ -115,6 +115,7 @@ abstract class BillClass{
 
 ## 备注
 * <strong style="color:red">每人周三上班交我一份年终总结（2017年的总结和2018的规划）</strong>
+    * 李彬和陈喆的总结要包含EDK的内容
 
 ## 周会记录
 
