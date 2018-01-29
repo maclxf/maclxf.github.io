@@ -9,8 +9,7 @@ tags: [week meeting] # add tag
 ---
 ## 上周codereview执行结果回馈
 1. 待优化代码
-
-<code>
+```
 //异步获取云仓操作明细
 public function business_list() {
     $page = $this->input->post('page') ? $this->input->post('page') : 1;
@@ -92,10 +91,10 @@ public function business_list() {
     output($data);
     return ;
 }
-</code>
+```
 
 2. 待优化代码
-<code>
+```
 /**
  * api制单抽象类
  */
@@ -112,7 +111,8 @@ abstract class BillClass{
      * @return string url
      */
     protected abstract function get_api_url();
-</code>
+}
+```
 
 
 
