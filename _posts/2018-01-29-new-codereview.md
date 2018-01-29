@@ -95,9 +95,6 @@ public function business_list() {
 
 2. 待优化代码
 ```
-/**
- * api制单抽象类
- */
 abstract class BillClass{
     /**
      * 组装渠道所需数据
