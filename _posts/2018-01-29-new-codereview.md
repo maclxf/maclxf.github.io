@@ -126,4 +126,4 @@ public function get_new_lable($batch_transfer) {
     * 李彬和陈喆的总结要包含EDK的内容
 
 ## 周会记录
-
+* <a href="../assets/attchment/2018-01-29/mk_content.docx" download="2018-01-29周会记录.docx">周会记录</a>
