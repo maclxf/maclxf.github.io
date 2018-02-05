@@ -41,12 +41,16 @@ class Mysql extends ParentClass implements Itemplete { // 写一行，{ 前面�
     private $name = 'yangyi';
     protected $age = '17';
 
-    // 参数之间有一个空格。默认参数的“=”左右各有一个空格，) 与 { 之间有一个空格
-    // 方法(method)，必须 声明其可见性，到底是 public 还是 protected 还是 private，不能省略。
-    // 如果有多个参数，第一个参数后紧接“,” ，再加一个空格：function_name($par, $par2, $pa3),
+    // 参数之间有一个空格。默认参数的“=”左右各有一个空格，
+    // ) 与 { 之间有一个空格
+    // 方法(method)，必须 声明其可见性，
+    // 到底是 public 还是 protected 还是 private，不能省略。
+    // 如果有多个参数，第一个参数后紧接“,” ，
+    // 再加一个空格：function_name($par, $par2, $pa3),
     // 如果参数有默认值，“=”左右各有一个空格分开
     public function get_info($name, $age, $gender = 1) {
-        // 参数之间有一个空格。默认参数的“=”左右各有一个空格，) 与 { 之间有一个空格
+        // 参数之间有一个空格。默认参数的“=”左右各有一个空格，
+        // ) 与 { 之间有一个空格
 
     }
 }
@@ -71,11 +75,14 @@ abstract class ClassName {
 
 ```php
 <?php
-if ($expr1) { // if 与 ( 之间有一个空格，) 与 { 之间有一个空格
+if ($expr1) {
+    // if 与 ( 之间有一个空格，) 与 { 之间有一个空格
 
-} elseif ($expr2) { // elesif 连着写，与 ( 之间有一个空格，) 与 { 之间有一个空格
+} elseif ($expr2) {
+    // elesif 连着写，与 ( 之间有一个空格，) 与 { 之间有一个空格
 
-} else { // else 左右各一个空格
+} else {
+    // else 左右各一个空格
 
 }
 ```
@@ -86,7 +93,8 @@ if ($expr1) { // if 与 ( 之间有一个空格，) 与 { 之间有一个空格
 
 ```php
 <?php
-switch ($expr) { // switch 与 ( 之间有一个空格，) 与 { 之间有一个空格
+switch ($expr) {
+// switch 与 ( 之间有一个空格，) 与 { 之间有一个空格
     case 0:
         echo 'First case, with a break'; // 对齐
         break; // 换行写break，也对齐。
@@ -111,11 +119,13 @@ switch ($expr) { // switch 与 ( 之间有一个空格，) 与 { 之间有一个
 ```php
 <?php
 for ($i = 0; $i < 10; $i++) {
-    // for 与 ( 之间有一个空格，二元操作符 "="、"<" 左右各有一个空格，) 与 { 之间有一个空格
+    // for 与 ( 之间有一个空格，二元操作符 "="、"<" 左右各有一个空格，
+    // ) 与 { 之间有一个空格
 
 }
 foreach ($iterable as $key => $value) {
-    // foreach 与 ( 之间有一个空格，"=>" 左右各有一个空格，) 与 { 之间有一个空格
+    // foreach 与 ( 之间有一个空格，"=>" 左右各有一个空格，
+    // ) 与 { 之间有一个空格
 
 }
 try { // try 右边有一个空格
