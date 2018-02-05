@@ -30,7 +30,7 @@ tags: [month meeting] # add tag
 * 变量名 小写字母 + 下划线写法，如 `$current_user`，命名的应当是名词；
 
 ## 关于类的写法
-```
+```php
 <?php
 // extends和实现implement必须和 class name 写在一行
 class Mysql extends ParentClass implements Itemplete { // 写一行，{ 前面有个空格
