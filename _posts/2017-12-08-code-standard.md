@@ -32,8 +32,9 @@ tags: [month meeting] # add tag
 ## 关于类的写法
 ```php
 <?php
-// extends和实现implement必须和 class name 写在一行
-class Mysql extends ParentClass implements Itemplete { // 写一行，{ 前面有个空格
+// extends和实现implement必须和 class name 写在一行，
+// 同样{写一行，{ 前面有个空格
+class Mysql extends ParentClass implements Itemplete {
     //属性(property)必须声明其可见性，
     //到底是 public 还是 protected 还是 private，不能省略，
     //也不能使用var, var是php老版本中的什么方式，等用于public。
