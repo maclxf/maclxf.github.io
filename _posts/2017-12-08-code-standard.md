@@ -31,37 +31,37 @@ tags: [month meeting] # add tag
 
 ## 关于类的写法
 ```php
-    <?php
-    // extends和实现implement必须和 class name 写在一行
-    class Mysql extends ParentClass implements Itemplete { // 写一行，{ 前面有个空格
-        //属性(property)必须声明其可见性，
-        //到底是 public 还是 protected 还是 private，不能省略，
-        //也不能使用var, var是php老版本中的什么方式，等用于public。
-        public $foo = null;
-        private $name = 'yangyi';
-        protected $age = '17';
+<?php
+// extends和实现implement必须和 class name 写在一行
+class Mysql extends ParentClass implements Itemplete { // 写一行，{ 前面有个空格
+    //属性(property)必须声明其可见性，
+    //到底是 public 还是 protected 还是 private，不能省略，
+    //也不能使用var, var是php老版本中的什么方式，等用于public。
+    public $foo = null;
+    private $name = 'yangyi';
+    protected $age = '17';
 
+    // 参数之间有一个空格。默认参数的“=”左右各有一个空格，) 与 { 之间有一个空格
+    // 方法(method)，必须 声明其可见性，到底是 public 还是 protected 还是 private，不能省略。
+    // 如果有多个参数，第一个参数后紧接“,” ，再加一个空格：function_name($par, $par2, $pa3),
+    // 如果参数有默认值，“=”左右各有一个空格分开
+    public function get_info($name, $age, $gender = 1) {
         // 参数之间有一个空格。默认参数的“=”左右各有一个空格，) 与 { 之间有一个空格
-        // 方法(method)，必须 声明其可见性，到底是 public 还是 protected 还是 private，不能省略。
-        // 如果有多个参数，第一个参数后紧接“,” ，再加一个空格：function_name($par, $par2, $pa3),
-        // 如果参数有默认值，“=”左右各有一个空格分开
-        public function get_info($name, $age, $gender = 1) {
-            // 参数之间有一个空格。默认参数的“=”左右各有一个空格，) 与 { 之间有一个空格
 
-        }
     }
+}
 
-    // 用到抽象(abstract)和终结(final)来做类声明时，
-    // 它们必须放在方法可见性声明 （public 还是protected还是private）的前面。
-    // 而当用到静态(static)来做类声明时，则必须放在可见性声明的后面。
-    abstract class ClassName {
-        protected static $foo; // static放后面
-        abstract protected function zim(); // abstract放前面
+// 用到抽象(abstract)和终结(final)来做类声明时，
+// 它们必须放在方法可见性声明 （public 还是protected还是private）的前面。
+// 而当用到静态(static)来做类声明时，则必须放在可见性声明的后面。
+abstract class ClassName {
+    protected static $foo; // static放后面
+    abstract protected function zim(); // abstract放前面
 
-        final public static function bar() { // final放前面，static放最后。
-            // 方法主体部分
-        }
+    final public static function bar() { // final放前面，static放最后。
+        // 方法主体部分
     }
+}
 ```
 
 
@@ -70,14 +70,14 @@ tags: [month meeting] # add tag
 * if控制语句
 
 ```php
-        <?php
-        if ($expr1) { // if 与 ( 之间有一个空格，) 与 { 之间有一个空格
+<?php
+if ($expr1) { // if 与 ( 之间有一个空格，) 与 { 之间有一个空格
 
-        } elseif ($expr2) { // elesif 连着写，与 ( 之间有一个空格，) 与 { 之间有一个空格
+} elseif ($expr2) { // elesif 连着写，与 ( 之间有一个空格，) 与 { 之间有一个空格
 
-        } else { // else 左右各一个空格
+} else { // else 左右各一个空格
 
-        }
+}
 ```
 
 
