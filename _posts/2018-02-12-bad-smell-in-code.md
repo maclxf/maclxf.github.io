@@ -2,7 +2,7 @@
 layout: post
 title: "2018-02-12周会"
 date: 2018-02-12 23:22:20 +0800
-description:  2018-02-12周会 # Add post description (optional)
+description:  代码重构（代码的坏味道） # Add post description (optional)
 img:  2018-02-12.jpg # Add image post (optional)
 list_img:  2018-02-12-list.gif
 tags: ['week meeting', '重构', '变量作用域'] # add tag
