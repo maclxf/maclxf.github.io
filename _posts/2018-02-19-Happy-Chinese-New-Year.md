@@ -16,5 +16,5 @@ tags: [] # add tag
 <div style="text-align:center;"><img src="../assets/attchment/2018-02-19/coder.png" alt="chinese_new_year" /></div>
 <h2 style="text-align:center;color:red">新年愿各位攻城狮都能码出飞一般的感觉</h2>
 <div style="text-align:center;"><img src="../assets/attchment/2018-02-19/speed.gif" alt="chinese_new_year" /></div>
-<h2 style="text-align:center;color:red">新年愿各位攻城狮天天开心，事事顺利</span>
+<h2 style="text-align:center;color:red">新年愿各位攻城狮天天开心，事事顺利</h2>
 <div style="text-align:center;"><img src="../assets/attchment/2018-02-19/mood.gif" alt="chinese_new_year" /></div>
