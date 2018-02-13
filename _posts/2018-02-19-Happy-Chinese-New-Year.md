@@ -7,14 +7,14 @@ img:  2018-02-19.jpg # Add image post (optional)
 list_img:  2018-02-19-list.jpg
 tags: ['Happy Chinese New Year!'] # add tag
 ---
-<h1 style="color:red;font-family: 汉仪雪君体简">Happy Chinese New Year!</h1>
+<h1 style="text-align:center;color:red;font-family: 汉仪雪君体简">新春快乐</h1>
 
 <img src="../assets/attchment/2018-02-19/chinese_new_year.jpg" alt="chinese_new_year" />
 <img src="../assets/attchment/2018-02-19/chinese_new_year_1.jpg" alt="chinese_new_year" />
 
-* 新年愿各位攻城狮都成为优秀的攻城狮
-<img src="../assets/attchment/2018-02-19/coder.jpg" alt="chinese_new_year" />
-* 新年愿各位攻城狮码代码都能码出飞一般的速度
+* <span style="color:red">新年愿各位程序猿都成为优秀的攻城狮</span>
+<img src="../assets/attchment/2018-02-19/coder.png" alt="chinese_new_year" />
+* <span style="color:red">新年愿各位攻城狮码代码都能码出飞一般的速度</span>
 <img src="../assets/attchment/2018-02-19/speed.gif" alt="chinese_new_year" />
-* 新年愿各位攻城狮天天的开心
+* <span style="color:red">新年愿各位攻城狮天天的开心，事事顺利</span>
 <img src="../assets/attchment/2018-02-19/mood.gif" alt="chinese_new_year" />
