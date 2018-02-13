@@ -5,7 +5,7 @@ date: 2018-02-19 23:22:20 +0800
 description:  恭贺新春，狗年大吉 # Add post description (optional)
 img:  2018-02-19.jpg # Add image post (optional)
 list_img:  2018-02-19-list.jpg
-tags: ['Happy Chinese New Year!'] # add tag
+tags: [] # add tag
 ---
 <h1 style="text-align:center;color:red;font-family: 汉仪雪君体简">新春快乐</h1>
 
