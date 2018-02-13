@@ -4,7 +4,7 @@ title: "2018-02-12周会"
 date: 2018-02-12 23:22:20 +0800
 description:  2018-02-12周会 # Add post description (optional)
 img:  2018-02-12.jpg # Add image post (optional)
-list_img:  2018-02-12-list.jpg
+list_img:  2018-02-12-list.gif
 tags: ['week meeting', '重构', '变量作用域'] # add tag
 ---
 ## 上周codereview执行结果回馈
@@ -152,5 +152,7 @@ tags: ['week meeting', '重构', '变量作用域'] # add tag
 ## 备注
 
 ## 周会记录
+* <a href="../assets/attchment/2018-02-12/mk_content.docx" download="周会记录.docx">周会记录</a>
+
 
 
