@@ -12,9 +12,9 @@ tags: [] # add tag
 <img src="../assets/attchment/2018-02-19/chinese_new_year.jpg" alt="chinese_new_year" />
 <img src="../assets/attchment/2018-02-19/chinese_new_year_1.jpg" alt="chinese_new_year" />
 
-<span style="text-align:center;color:red">新年愿各位程序猿都成为优秀的攻城狮</span>
+<h2 style="text-align:center;color:red">新年愿各位程序猿都成为优秀的攻城狮</h2>
 <div style="text-align:center;"><img src="../assets/attchment/2018-02-19/coder.png" alt="chinese_new_year" /></div>
-<span style="text-align:center;color:red">新年愿各位攻城狮都能码出飞一般的感觉</span>
+<h2 style="text-align:center;color:red">新年愿各位攻城狮都能码出飞一般的感觉</h2>
 <div style="text-align:center;"><img src="../assets/attchment/2018-02-19/speed.gif" alt="chinese_new_year" /></div>
-<span style="text-align:center;color:red">新年愿各位攻城狮天天的开心，事事顺利</span>
+<h2 style="text-align:center;color:red">新年愿各位攻城狮天天的开心，事事顺利</span>
 <div style="text-align:center;"><img src="../assets/attchment/2018-02-19/mood.gif" alt="chinese_new_year" /></div>
