@@ -156,12 +156,16 @@ public function virement($notice, $type = 'customer', $id, $category, $key, $amo
 
 
 ## 分享
+* 分享内容
+* 上周代码遇到的问题
 
 ## 项目进度
 
-## 备注
-
 ## 周会记录
+
+## 备注
+* 月会安排在下周
+
 
 
 
