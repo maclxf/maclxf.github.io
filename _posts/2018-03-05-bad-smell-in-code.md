@@ -4,7 +4,7 @@ title: "2018-03-05周会"
 date: 2018-03-05 23:22:20 +0800
 description:  代码重构（代码的坏味道） # Add post description (optional)
 img:  2018-03-05.jpg # Add image post (optional)
-list_img:  2018-03-05.jpg
+list_img:  2018-03-05-list.jpg
 tags: ['week meeting', '代码重构', '过长的参数列']# add tag
 ---
 ## 上周codereview执行结果回馈
