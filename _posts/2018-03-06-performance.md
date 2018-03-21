@@ -4,7 +4,7 @@ title: "绩效说明"
 date: 2018-03-16 23:22:20 +0800
 description:  绩效说明 # Add post description (optional)
 img:  2018-03-16.jpg # Add image post (optional)
-list_img:  2018-03-16-list.jpg
+list_img:  2018-03-16-list.gif
 tags: ['绩效说明']# add tag
 ---
 # 绩效说明
@@ -32,8 +32,9 @@ tags: ['绩效说明']# add tag
 4. bug不算加急任务，请bug maker立即解决；
 8. 完成任务后自行统计当前任务的实际耗时记录于任务流程中；
 8. 任务完成需由需求方认可。
-> 例子：
+> 例子：1
 <img src="../assets/attchment/2018-03-16/task_pass_by_1.jpg" alt="task" />
+例子：2
 <img src="../assets/attchment/2018-03-16/task_pass_by_more.jpg" alt="task" />
 
 7. 任务说明：
