@@ -35,9 +35,9 @@ tags: ['绩效说明']# add tag
 8. 任务完成（<span class="red">完成是指本地测试线上测试后均无问题</span>）需由需求方认可。
 >
 例子：一次通过案例<br>
-<img src="../assets/attchment/2018-03-16/task_pass_by_1.jpg" alt="task" />
+<img src="../assets/attchment/2018-03-16/task_pass_by_1.jpg" alt="task" /><br>
 例子：多次通过案例<br>
-<img src="../assets/attchment/2018-03-16/task_pass_by_more.jpg" alt="task" />
+<img src="../assets/attchment/2018-03-16/task_pass_by_more.jpg" alt="task" /><br>
 例子：完成任务绩效的填写方式<br>
 <img src="../assets/attchment/2018-03-16/task_performance.png" alt="task" />
 
