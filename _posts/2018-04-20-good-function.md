@@ -67,6 +67,7 @@ tags: ['week meeting']# add tag
 
 
 ## 周会记录
+* <a href="../assets/attchment/2018-04-20/mk_content.docx" download="周会记录.docx">周会记录</a>
 
 
 ## 备注
