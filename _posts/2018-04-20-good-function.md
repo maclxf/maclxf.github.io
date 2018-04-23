@@ -40,10 +40,10 @@ tags: ['week meeting']# add tag
 > 遇到大坑小坑常做记录，周会分享，大家学习，共同进步
 
 * `adi-fr\app\views\admin\merchant\edit_merchant` 余林分享这种js的写法
-<a href="../assets/attchment/2018-04-30/yl_share.docx" >点击下载</a>
+<a href="../assets/attchment/2018-04-20/yl_share.docx" >点击下载</a>
 
 * `edockey\shared\libraries\Exporter\Excel\ClearanceExporter` 李彬思考 ClearanceExporter->get_data() 如何避免循环查询
-<a href="../assets/attchment/2018-04-30/lb_share.docx" >点击下载</a>
+<a href="../assets/attchment/2018-04-20/lb_share.docx" >点击下载</a>
 
 * 关于功能说明和交接
 
