@@ -25,6 +25,10 @@ tags: ['polymorphism']# add tag
 
 * bug率
 
+黎晓峰：加入英国仓后，认领包裹页面没展示退税信息
+李彬：包裹列表已删除的包裹还展示在列表中
+
+
 
 ## 分享
 > 遇到大坑小坑常做记录，周会分享，大家学习，共同进步
@@ -86,6 +90,7 @@ $SqlEnt->connect(new MssqlObj());
 * FR 周一上线药妆
 
 ## 周会记录
+* <a href="../assets/attchment/2018-05-11/mk_content.docx" download="周会记录.docx">周会记录</a>
 
 
 ## 备注
