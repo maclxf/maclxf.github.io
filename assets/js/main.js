@@ -1,9 +1,16 @@
 
 $(function(){
-    $('#show_group_concat_intro').click(function(e) {
+    $('#show_action').click(function(e) {
         e.preventDefault();
-        $('#how_use_group_concat').slideDown("slow");
+        $('#show_content').slideDown("slow");
     });
+
+    $('.click_me').click(function(e) {
+    	e.preventDefault();
+
+    	var show_where = $(this).data("show_where");
+    	$('#' + show_where).slideDown("slow");
+    })
 
 
 
