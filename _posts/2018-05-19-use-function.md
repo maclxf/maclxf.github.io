@@ -5,7 +5,7 @@ date: 2018-05-19 23:22:20 +0800
 description:   # Add post description (optional)
 img:  2018-05-19.jpg # Add image post (optional)
 list_img:  2018-05-19-list.jpg
-tags: ['polymorphism']# add tag
+tags: ['function']# add tag
 ---
 ## 上周codereview执行结果回馈
 
@@ -63,7 +63,10 @@ tags: ['polymorphism']# add tag
 
 ## 分享
 > 遇到大坑小坑常做记录，周会分享，大家学习，共同进步
+
 * 陈喆`array_merge`和'array() + array()'的区别
+<a href="../assets/attchment/2018-05-19/cz_share.rar" >点击下载</a>
+
 
 ## 绩效追踪
 > 工作的时间做工作相关的事情
@@ -90,7 +93,7 @@ tags: ['polymorphism']# add tag
 > 会前整理好本周的工作，体现出可实施性。
 
 * EDK
-
+	* 调整上周测试出现的问题后，再完成一次流程测试
 * FR：
 	* 邮件中的内容
 	* 提出BUG的整改
@@ -99,9 +102,12 @@ tags: ['polymorphism']# add tag
 
 
 ## 周会记录
+* <a href="../assets/attchment/2018-05-19/mk_content.docx" download="周会记录.docx">周会记录</a>
 
 
 ## 备注
 * 讨论 如何用框架使用的 `OR WHERE` VS `$this->db->or_where`
+* 罗鑫 总结如何调试ios兼容性的问题并分享
+* 李彬 uploadfive 的使用介绍
 
 
